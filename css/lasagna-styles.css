@@ -1,0 +1,23 @@
+body.container {
+    text-align: center;
+    background-color: rgb(125, 102, 255);
+}
+
+#header {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+#img {
+    height: auto;
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ul-list,.ol-list {
+    display: inline-block;
+    text-align: left;
+}
+
