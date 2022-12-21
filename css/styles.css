@@ -1,0 +1,26 @@
+#heading {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+
+#rat-image {
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#background {
+    background-color: rgb(109, 245, 105);
+}
+
+* {
+    text-align: center;
+}
+
+.ul-list {
+    display: inline-block;
+    text-align: left;
+}
