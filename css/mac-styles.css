@@ -1,0 +1,17 @@
+h1#heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body.container {
+    text-align: center;
+    background-color: rgb(221, 253, 77);
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul-list,.ol-list {
+    display: inline-block;
+    text-align: left;
+}
